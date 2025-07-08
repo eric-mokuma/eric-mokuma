@@ -1,11 +1,12 @@
-## Hi there 👋
-
-I'm a passionate web development and design student actively seeking a challenging internship to enhance my skills in HTML 💻, CSS 🎨, JavaScript ⚙️, React ⚛️, and Git 🐙. After completing my secondary education in commercial and administrative techniques, I earned a degree in Management Information Systems 📊 in the DRC. Currently, I’m expanding my web development expertise at DEV-ACADEMY in New Zealand 🇳🇿.
-
-In addition to my tech journey, I love exploring the world through travel 🌍, immersing myself in new cultures, and discovering unique experiences. Gaming 🎮 is another passion of mine; it not only fuels my creativity but also sharpens my problem-solving skills. When I'm not coding, you’ll find me engaging in sports 🏅, which keeps me active and focused, or enjoying films and music 🎬🎶, both of which inspire my design aesthetic.
-
-I am fluent in French 🇫🇷, English 🇬🇧, Lingala 🇨🇩, and Swahili 🇰🇪, which allows me to thrive in diverse, multicultural environments. My experience working with local and international NGOs has strengthened my teamwork skills and taught me the importance of constructive feedback.
-
-I’m highly motivated to learn and adapt quickly, eager to collaborate with dynamic teams 🤝, and committed to contributing to innovative projects that create exceptional user experiences. The tech world has fascinated me since childhood, fueling my ambition to tackle new challenges and grow into a proficient web developer and designer 🚀. I look forward to making a significant impact while honing my technical abilities.
+## Kia Ora,
 
 
+I’m a passionate web development and design student currently studying at Victoria University of Wellington 🎓 and working part-time as a Web Developer at Voice of Aroha 💻. I am passionate about everything related to new technology.
+
+After completing my secondary education in commercial and administrative techniques, I earned a degree in Management Information Systems 📊 in the Democratic Republic of Congo (DRC). To build on that foundation, I pursued hands-on training in web development at DEV-ACADEMY in New Zealand 🇳🇿.
+
+Beyond tech, I’m passionate about travel 🌍, discovering new cultures, and experiencing the world in fresh and inspiring ways. Gaming 🎮 stimulates my creativity and hones my problem-solving abilities. When I’m not coding, I enjoy staying active through sports 🏅, and I often find design inspiration in films and music 🎬🎶.
+
+I’m fluent in French 🇫🇷, English 🇬🇧, Lingala 🇨🇩, and Swahili 🇰🇪, allowing me to thrive in multicultural environments. My experience working with both local and international NGOs has strengthened my teamwork, communication, and adaptability.
+
+Driven by curiosity and a desire to grow, I’m always eager to learn, collaborate, and contribute to innovative projects that deliver meaningful and accessible digital experiences. The tech world has fascinated me since childhood, and I’m determined to make a positive impact while developing into a skilled web developer and designer 🚀.
