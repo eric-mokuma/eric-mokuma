@@ -1,7 +1,7 @@
 ## Kia Ora,
 
 
-I’m a passionate web development and design student currently studying at Victoria University of Wellington 🎓 and working part-time as a Web Developer at Voice of Aroha 💻. I am passionate about everything related to new technology.
+I’m a passionate web development and working part-time as a Web Developer at Voice of Aroha 💻. I am passionate about everything related to new technology.
 
 After completing my secondary education in commercial and administrative techniques, I earned a degree in Management Information Systems 📊 in the Democratic Republic of Congo (DRC). To build on that foundation, I pursued hands-on training in web development at DEV-ACADEMY in New Zealand 🇳🇿.
 
